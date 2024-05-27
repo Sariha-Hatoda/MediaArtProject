@@ -1,0 +1,15 @@
+#gitignore template in oF
+ 
+#Ignore All
+*
+!*/
+ 
+#Allowlist
+!.git/*
+!.gitignore
+!.gitattributes
+!src/**
+!*.md
+#Ignorelist
+.DS_Store
+Thumbs.db
