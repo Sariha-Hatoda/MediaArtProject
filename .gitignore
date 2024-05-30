@@ -9,7 +9,7 @@
 !.gitignore
 !.gitattributes
 !src/**
-!*.md
+!.md
 #Ignorelist
 .DS_Store
 Thumbs.db
