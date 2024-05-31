@@ -30,3 +30,5 @@ Instructions for using the app:
 This example uses no other classes.
 
 # This is commit from Ohara.
+
+# this is commit from deguchi(2024/05/31)
