@@ -28,3 +28,5 @@ Instructions for using the app:
 ### Other classes used in this file
 
 This example uses no other classes.
+
+# this is commit from deguchi(2024/05/31)
